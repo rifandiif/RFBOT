@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6285726269397@s.whatsapp.net",
+  "botName": "RFSTOREPBGBOT",
+  "ownerName": "Rifandi",
+  "footer": "*2022 © RFSTOREPBGBOT*",
+  "apikey": "APIKEY",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "ramlanid",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
